@@ -1,0 +1,14 @@
+C:\Users\u\source\repos\Trivia_Star\bin\Debug\Trivia_Star.exe.config
+C:\Users\u\source\repos\Trivia_Star\bin\Debug\Trivia_Star.exe
+C:\Users\u\source\repos\Trivia_Star\bin\Debug\Trivia_Star.pdb
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.MainMenuScreen_Form.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.Properties.Resources.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.csproj.GenerateResource.cache
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.exe
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.pdb
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.PlayScree_Form.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.GameOverScreen_Form.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.WelcomeScreen_Form.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.WellDoneScreen_Form.resources
+C:\Users\u\source\repos\Trivia_Star\obj\Debug\Trivia_Star.csproj.AssemblyReference.cache
