@@ -1,6 +1,6 @@
 # Trivia Star
 
-☉ Programming Language: Visual Basic <br>
+☉ Programming Language: C# <br>
 ☉ Framework: WinForms <br>
 ☉ Operating System: Windows <br>
 
